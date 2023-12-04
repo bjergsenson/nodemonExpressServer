@@ -1,0 +1,26 @@
+{
+  "name": "nodemonexpressserver",
+  "version": "1.0.0",
+  "description": "this is a server that uses nodemon and express.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjergsenson/nodemonExpressServer.git#main"
+  },
+  "keywords": [
+    "nodemon",
+    "express.js"
+  ],
+  "author": "Manuel Alejandro Londoño Cadavid",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/bjergsenson/nodemonExpressServer/issues"
+  },
+  "homepage": "https://github.com/bjergsenson/nodemonExpressServer/tree/main#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
